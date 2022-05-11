@@ -7,6 +7,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Setup steps:
 
 central domain name: config/tenancy.php
+
+
 env changes
 
 SESSION_DRIVER=database
