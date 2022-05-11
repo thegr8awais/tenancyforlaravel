@@ -12,3 +12,5 @@ central domain name: config/tenancy.php
 env changes
 
 SESSION_DRIVER=database
+
+git clone https://github.com/thegr8awais/tenancyforlaravel tenancy
